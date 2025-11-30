@@ -1,0 +1,30 @@
+name: weather_app
+description: >-
+  A beautiful and feature-rich Flutter weather application that provides 
+  real-time weather information including temperature, humidity, wind speed, 
+  and more using the OpenWeatherMap API.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP requests for API calls
+  http: ^1.1.0
+
+  # Material design icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
