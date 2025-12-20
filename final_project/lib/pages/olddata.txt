@@ -1,0 +1,186 @@
+nderstood. Here is the enhanced food item dataset with more details on the Creamy Pizza from Crust Bros:
+
+Restaurant Menu Items:
+
+Bebas Restaurant:
+- Bebas Sabroso Fusion Burger
+- Bebas Boneless Thigh 
+- Fried Rice from Bebas
+
+Shah Fareed Restaurant:
+- Shah Fareed Achari Shawarma 
+- Shah Fareed Zinger Shawarma
+
+Eatway Restaurant: 
+- Eatway 4x Pizza
+
+Meeran Ji Restaurant:
+- Meeran Ji Crown Crust Pizza
+
+Alhamra Restaurant:
+- Alhamra Shahi Pizza
+- Chicken Handi Alhamra
+
+Rashid's Barbecue:
+- Barbecue from Rashid Karachi
+
+Abdul Rafay's:
+- Broast Abdul Rafay
+- Zinger Burger Abdul Rafay  
+
+Rewari Restaurant:
+- Rewari Ras Malai
+- Rewari Qala Qand
+
+Other Items:
+- Station Samosa
+- Mandi Dahi Ballay
+- Mandi Jalebi
+- Mudasir Naan Shami
+- Maryam Cone Ice Cream
+- Karachi Chatkhara Biryani
+- Kashi Pulao
+- Mian Nasir Chanay
+- Islamu Chanay
+- Fruit Juice near Zong Franchise
+- Hafiz Fruit Salad
+- Kulfi near Imam Bargah
+- Chicken Karahi Siraj
+- Everbest Kulfi from Shanda
+- Gulzar Sohan Halwa
+- Gulzar Gajrela
+- Gulzar Gajrela Ice Cream
+- Bhai Kala's Son Peanuts
+
+Crust Bros Restaurant Menu:
+- Zinger Burger - Rs.399
+- Chicken Grill Burger - Rs.649
+- Tower Burger - Rs.599
+- Mighty Burger - Rs.649 
+- Spicy Burger - Rs.299
+- Chicken Burger - Rs.299
+- Creamy Pizza - Topped with creamy white sauce, mozzarella cheese, and your choice of toppings. Available in 8", 12", and 16" sizes for Rs.649, Rs.1299, and Rs.1649 respectively.
+- Shahi Pizza - Featuring a rich, creamy tomato sauce base and an assortment of premium toppings. Available in 8", 12", and 16" sizes for Rs.649, Rs.1299, and Rs.1649 respectively.
+- Crown Crust Pizza - A Crust Bros signature pizza with a unique crown-shaped crust. Available in 12" and 16" sizes for Rs.1299 and Rs.1649 respectively.
+- Special Pizza - A specialty pizza with a variety of gourmet toppings. Available in 12" and 16" sizes for Rs.1299 and Rs.1649 respectively. 
+- Deep Pan Pizza - A thick, indulgent pizza with a fluffy crust. Available in 12" and 16" sizes for Rs.1299 and Rs.1649 respectively.
+- Cheesy Pizza - Loaded with melted mozzarella cheese. Available in 12" and 16" sizes for Rs.1299 and Rs.1649 respectively.
+
+Nawab Hotel Menu:
+- Royal Special Chicken - Rs.700
+- Chicken Chilli Dry - Rs.650
+- Chicken Manchurian - Rs.680
+- Chicken Cashewnet - Rs.700
+- Chicken with Pineapple - Rs.700
+- Chicken with Almond - Rs.700
+- Black Pepper Chicken - Rs.600
+- Chicken Garlic Sauce - Rs.600
+- Chicken Shashlik with Rice - Rs.650
+- Sweet n Sour Chicken - Rs.600
+- Royal Special Rice - Rs.700
+- Chicken Fried Rice - Rs.600
+- Egg Fried Rice - Rs.550
+- Vegedata Fried Rice - Rs.500
+- Chicken Massala Rice - Rs.550
+- Garlic Fried Rice - Rs.550
+- Plain Rice - Rs.200
+- Royal Special Chowmein - Rs.700
+- Chicken Chowmein - Rs.600
+- Vegedata Chowmein - Rs.550
+- Royal Special Beef Biryani - Rs.650/350
+- Murgh Dum Biryani - Rs.500/300
+- Mutton Dum Biryani - Rs.750/400
+
+
+Understood. Here is the enhanced food item dataset with more details on each item:
+
+Restaurant Menu Items:
+
+Bebas Restaurant:
+- Bebas Sabroso Fusion Burger - A flavorful burger with a unique fusion of flavors, recommended for those who enjoy bold and adventurous tastes.
+- Bebas Boneless Thigh - Tender and juicy boneless chicken thighs, perfect for those looking for a protein-packed meal.
+- Fried Rice from Bebas - Fluffy and fragrant fried rice, a great accompaniment to Bebas' other dishes.
+
+Shah Fareed Restaurant:
+- Shah Fareed Achari Shawarma - Marinated in a tangy achari spice mix, this shawarma is a local favorite for its authentic flavors.
+- Shah Fareed Zinger Shawarma - A spicy twist on the classic shawarma, packed with a punch of heat.
+
+Eatway Restaurant:
+- Eatway 4x Pizza - A large, indulgent pizza with four different types of toppings, perfect for sharing.
+
+Meeran Ji Restaurant: 
+- Meeran Ji Crown Crust Pizza - Crust Bros' signature pizza with a unique crown-shaped crust, known for its crispy edges and fluffy interior.
+
+Alhamra Restaurant:
+- Alhamra Shahi Pizza - A rich and creamy pizza with premium toppings, a must-try for pizza lovers.
+- Chicken Handi Alhamra - A classic chicken handi dish, slow-cooked to perfection with aromatic spices.
+
+Rashid's Barbecue:
+- Barbecue from Rashid Karachi - Succulent and smoky barbecue dishes, renowned for their authentic Karachi-style flavors.
+
+Abdul Rafay's:
+- Broast Abdul Rafay - Crispy and juicy broasted chicken, a local favorite.
+- Zinger Burger Abdul Rafay - A spicy burger with a tender, breaded chicken patty, perfect for those who enjoy bold flavors.
+
+Rewari Restaurant:
+- Rewari Ras Malai - Soft, spongy cheese dumplings in a creamy, rose-flavored syrup, a classic Indian dessert.
+- Rewari Qala Qand - A traditional Pakistani sweet made from milk solids, known for its rich, fudge-like texture.
+
+Other Items:
+- Station Samosa - Flaky and crispy samosas, a popular savory snack.
+- Mandi Dahi Ballay - Soft and tangy yogurt dumplings, a refreshing treat.
+- Mandi Jalebi - Syrupy, twisted fritters, a beloved Pakistani sweet.
+- Mudasir Naan Shami - Fluffy naan bread paired with succulent shami kebabs, a delightful combination.
+- Maryam Cone Ice Cream - Premium ice cream served in a crisp waffle cone.
+- Karachi Chatkhara Biryani - A spicy and flavorful biryani dish, a Karachi specialty.
+- Kashi Pulao - A fragrant and aromatic rice dish with various spices and herbs.
+- Mian Nasir Chanay - Savory and protein-rich chickpea curry, a popular street food.
+- Islamu Chanay - Another delicious variant of chickpea curry, with a distinct flavor profile.
+- Fruit Juice near Zong Franchise - Fresh and refreshing fruit juices, perfect for quenching thirst.
+- Hafiz Fruit Salad - A colorful and nutritious mix of seasonal fruits.
+- Kulfi near Imam Bargah - Traditional Indian-style ice cream, known for its creamy and dense texture.
+- Chicken Karahi Siraj - A rich and spicy chicken curry dish, a Karachi classic.
+- Everbest Kulfi from Shanda - Premium quality kulfi, made with high-quality ingredients.
+- Gulzar Sohan Halwa - A decadent, fudge-like Pakistani sweet, renowned for its smooth texture.
+- Gulzar Gajrela - A carrot-based dessert with a unique blend of flavors.
+- Gulzar Gajrela Ice Cream - A frozen treat made with the same flavors as the traditional Gajrela.
+- Bhai Kala's Son Peanuts - Roasted and salted peanuts, a popular snack.
+
+Crust Bros Restaurant Menu:
+- Zinger Burger - A spicy, breaded chicken burger, known for its bold flavors.
+- Chicken Grill Burger - A grilled chicken burger with a juicy and tender patty.
+- Tower Burger - A towering burger with multiple patties, perfect for those with a big appetite.
+- Mighty Burger - A substantial burger with a hefty beef patty and generous toppings.
+- Spicy Burger - A burger with a kick of heat, for those who enjoy a little spice.
+- Chicken Burger - A classic, no-frills chicken burger, perfect for a simple meal.
+- Creamy Pizza - Topped with a rich, creamy white sauce and mozzarella cheese, available in 8", 12", and 16" sizes.
+- Shahi Pizza - Featuring a decadent tomato sauce base and premium toppings, available in 8", 12", and 16" sizes.
+- Crown Crust Pizza - Crust Bros' signature pizza with a unique crown-shaped crust, available in 12" and 16" sizes.
+- Special Pizza - A specialty pizza with a variety of gourmet toppings, available in 12" and 16" sizes.
+- Deep Pan Pizza - A thick, indulgent pizza with a fluffy crust, available in 12" and 16" sizes.
+- Cheesy Pizza - Loaded with melted mozzarella cheese, available in 12" and 16" sizes.
+
+Nawab Hotel Menu:
+- Royal Special Chicken - A signature chicken dish with a rich and flavorful gravy.
+- Chicken Chilli Dry - Spicy and tangy, this chicken dish is a perfect starter or side.
+- Chicken Manchurian - A popular Indo-Chinese dish with a sweet and savory sauce.
+- Chicken Cashewnet - Tender chicken with a creamy, nutty sauce, a comforting dish.
+- Chicken with Pineapple - Sweet and sour chicken with the refreshing addition of pineapple.
+- Chicken with Almond - Chicken in a creamy almond-based sauce, a decadent treat.
+- Black Pepper Chicken - Packed with the bold flavor of black pepper, this dish is for those who love a spicy kick.
+- Chicken Garlic Sauce - Chicken in a fragrant garlic-based sauce, perfect for garlic lovers.
+- Chicken Shashlik with Rice - Grilled chicken skewers served with fluffy rice, a complete meal.
+- Sweet n Sour Chicken - A classic combination of sweet and tangy flavors.
+- Royal Special Rice - A fragrant and aromatic rice dish, a perfect accompaniment to Nawab's dishes.
+- Chicken Fried Rice - Fluffy fried rice with tender pieces of chicken.
+- Egg Fried Rice - A simple yet satisfying fried rice dish with scrambled eggs.
+- Vegedata Fried Rice - A vegetarian-friendly fried rice option.
+- Chicken Massala Rice - Spiced rice dish with succulent pieces of chicken.
+- Garlic Fried Rice - Fragrant fried rice with a bold garlic flavor.
+- Plain Rice - Steamed rice, a classic and versatile side dish.
+- Royal Special Chowmein - A flavorful chowmein dish with a mix of ingredients.
+- Chicken Chowmein - Chowmein noodles with tender chicken.
+- Vegedata Chowmein - A vegetarian version of the chowmein noodle dish.
+- Royal Special Beef Biryani - A delectable biryani made with tender beef, available in full and half portions.
+- Murgh Dum Biryani - A classic chicken biryani, cooked in a traditional dum style, available in full and half portions.
+- Mutton Dum Biryani - A rich and aromatic biryani dish made with tender mutton, available in full and half portions.
